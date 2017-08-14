@@ -1,0 +1,4 @@
+C:\Users\Vladislav\Desktop\SideX_Form\CustomGraphics\bin\Debug\CustomGraphics.dll
+C:\Users\Vladislav\Desktop\SideX_Form\CustomGraphics\bin\Debug\CustomGraphics.pdb
+C:\Users\Vladislav\Desktop\SideX_Form\CustomGraphics\obj\Debug\CustomGraphics.dll
+C:\Users\Vladislav\Desktop\SideX_Form\CustomGraphics\obj\Debug\CustomGraphics.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\obj\Debug\SideX_Form.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\obj\Debug\SideX_Form.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\bin\Debug\SideX_Form.exe.config
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\bin\Debug\SideX_Form.exe
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\bin\Debug\SideX_Form.pdb
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\bin\Debug\CustomGraphics.dll
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\bin\Debug\CustomGraphics.pdb
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\obj\Debug\SideX_Form.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\obj\Debug\SideX_Form.exe
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\obj\Debug\SideX_Form.pdb
+C:\Users\Vladislav\Desktop\SideX_Form\SideX_Form\obj\Debug\SideX_Form.SideX_Form_Preview.resources
